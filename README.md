@@ -43,5 +43,3 @@ Used Query:
 41. `GROUP BY Gender` – Group by gender
 42. `HAVING SUM(Salary)>10000` – Filter group sum
 
-
-Do you want me to do that?
